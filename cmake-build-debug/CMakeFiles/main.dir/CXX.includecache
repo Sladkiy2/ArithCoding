@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/marsi/CLionProjects/ArithCoding/compress.cpp
+compress.h
+C:/Users/marsi/CLionProjects/ArithCoding/compress.h
+
+C:/Users/marsi/CLionProjects/ArithCoding/compress.h
+stdio.h
+-
+iostream
+-
+fstream
+-
+
+C:/Users/marsi/CLionProjects/ArithCoding/decode.cpp
+decode.h
+C:/Users/marsi/CLionProjects/ArithCoding/decode.h
+
+C:/Users/marsi/CLionProjects/ArithCoding/decode.h
+compress.h
+C:/Users/marsi/CLionProjects/ArithCoding/compress.h
+
+C:/Users/marsi/CLionProjects/ArithCoding/encode.cpp
+encode.h
+C:/Users/marsi/CLionProjects/ArithCoding/encode.h
+
+C:/Users/marsi/CLionProjects/ArithCoding/encode.h
+compress.h
+C:/Users/marsi/CLionProjects/ArithCoding/compress.h
+
+C:/Users/marsi/CLionProjects/ArithCoding/main.cpp
+encode.h
+C:/Users/marsi/CLionProjects/ArithCoding/encode.h
+decode.h
+C:/Users/marsi/CLionProjects/ArithCoding/decode.h
+string.h
+-
+

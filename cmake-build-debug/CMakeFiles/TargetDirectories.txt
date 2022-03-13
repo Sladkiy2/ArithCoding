@@ -1,0 +1,4 @@
+C:/Users/marsi/CLionProjects/ArithCoding/cmake-build-debug/CMakeFiles/compress.cpp.dir
+C:/Users/marsi/CLionProjects/ArithCoding/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/marsi/CLionProjects/ArithCoding/cmake-build-debug/CMakeFiles/main.dir
+C:/Users/marsi/CLionProjects/ArithCoding/cmake-build-debug/CMakeFiles/rebuild_cache.dir

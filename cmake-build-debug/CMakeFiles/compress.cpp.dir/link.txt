@@ -1,0 +1,2 @@
+C:\MinGW\bin\ar.exe qc libcompress.cpp.a  CMakeFiles/compress.cpp.dir/decode.cpp.obj CMakeFiles/compress.cpp.dir/encode.cpp.obj
+C:\MinGW\bin\ranlib.exe libcompress.cpp.a
